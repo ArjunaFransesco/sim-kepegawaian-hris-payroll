@@ -118,3 +118,4 @@ jupyter notebook notebooks/sim_kepegawaian_hris_payroll_pipeline.ipynb
 
 
 <!-- Last Maintenance Audit: 2026-11-28 -->
+<!-- Audit Sync: 09:02:06.419734 #40 -->
